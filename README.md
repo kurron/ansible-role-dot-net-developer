@@ -1,7 +1,7 @@
 Role Name
 =========
 
-Installation of tools than any self-respecting Go developer loves and needs.
+Installation of tools than any self-respecting cross-platform .NET developer loves and needs.
 
 Requirements
 ------------
@@ -24,7 +24,7 @@ Example Playbook
 ```
 - hosts: servers
   roles:
-      - { role: kurron.php-developer, php_phpstorm_version: 2016.2.1, php_phpstorm_build: 162.1889.1 }
+      - { role: kurron.dot-net-developer, rider_version: 2016.2.1, rider_install: true }
 ```
 
 License

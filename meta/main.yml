@@ -1,6 +1,6 @@
 galaxy_info:
   author: Ronald D. Kurr
-  description: Go Lang IDE and command-line tools.
+  description: Rider IDE and command-line tools.
   company: jvmguy.com
 
   license: Apache 2
@@ -32,9 +32,11 @@ galaxy_info:
 
   galaxy_tags:
       - development
-      - go
+      - .NET Core
+      - Xamarin
+      - Unity
       - jetbrains
-      - GoLand
+      - Rider
 
 dependencies:
     - { role: kurron.jdk }

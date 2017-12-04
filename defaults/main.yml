@@ -1,0 +1,4 @@
+---
+go_goland_install: true
+go_goland_version: 2017.3
+go_goland_share_jdk: true
